@@ -1,2 +1,2 @@
 # gitskills
-分支修改
+Creating a new branch is quick.
